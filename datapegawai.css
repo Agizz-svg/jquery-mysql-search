@@ -1,0 +1,37 @@
+h2, h3{
+    text-align: center;
+}
+
+.kotak{
+    width: 800px;
+    background: white;
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 10px 10px;
+}
+
+input{
+    width: 200px;
+    padding: 5px 3px;
+    font-size: 11pt;
+    box-sizing : border-box;
+}
+
+.form{
+    box-sizing : border-box;
+    width: 100%;
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+}
+
+table,tr,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,td{
+    padding: 5px;
+}
